@@ -1,0 +1,157 @@
+#F0EBE3
+
+E4DCCF
+
+7D9D9C
+
+576F72
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="..." alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Third slide">
+    </div>
+  </div>
+</div>
+
+
+	https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css
+
+      	https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js
+
+
+
+Employee Section
+
+Mail Service
+
+Regional Network
+
+RC Services
+
+SOUs/Other Institutions
+
+Empanelled Hospitals
+
+Jobs at IGNOU
+
+Tenders of IGNOU
+
+Telephone Directory
+
+Complaint Against Caste Discrimination
+
+Committee Against Sexual Harassment
+
+IGNOU-SAMARTH Portal
+
+IGNOU-SAMARTH User Manual
+LTC Advance/Intimation Form
+LTC Claim Form
+Student Section
+Common Prospectus
+
+
+
+
+
+
+
+
+
+
+
+Podcast Link
+
+IGNOU UDYAMI
+
+IGNOU Online Programmes
+
+Student Grievances
+
+Study Material Status
+
+Study Material Catalogue
+
+Placement Assistance
+
+Alumni
+
+International Students
+
+IGNOU Online
+
+Online Payment for miscellaneous fees
+
+FAQs for Promotion Scheme
+
+Notification on Ragging
+
+Equal Opportunity Cell(EOC)
+
+Swayamprabha Channels(Video Telecast)
+
+
+
+
+
+
+
+
+
+
+
+Other Links
+Jambudweep e-Journal of Indic Studies
+
+ARIIA-2021
+
+Videos of NAAC Peer Team Visit (2021)
+
+Photos of NAAC Peer Team Visit (2021)
+
+Other Official Websites
+
+National Voters Service Portal
+
+Partner Institutions
+
+Innovation
+
+Photo Gallery
+
+Anti Discrimination Officer
+
+National Cyber Crime Reporting Portal
+
+National Youth Parliament
+
+Web Enabled Academic Support (WEAS)
+
+Bharatiya Chhatra Sansad
+
+National Digital Library of India
+
+
+
+
+
+
+Route Map
+
+Student Section II
+Frequently Useful Links
+
+Daily Schedule of Videos Telecast for Swayamprabha Channels
+
+Audio Resources of EMPC
+
+Video Resources of EMPC
+
+Schedule of Gyandarshan channels
